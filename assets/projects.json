@@ -6,7 +6,7 @@
       "description": "AI-powered personal finance assistant. FastAPI ML service (TF-IDF + Logistic Regression) + Spring Boot backend + OpenAI API for AI-generated financial summaries."
     },
     {
-      "repo": "JobHunt",
+       "repo": "JobHunt",
       "description": "Full-stack MERN job application tracker with JWT auth, MongoDB-backed analytics, and a Redux + Tailwind dashboard."
     },
     {
