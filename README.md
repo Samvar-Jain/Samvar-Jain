@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=4F8EF7&center=true&vCenter=true&width=560&lines=Samvar+Jain;Product+Manager+%40+Orbitron+Labs;Building+AI-powered+%2B+full-stack+systems" alt="typing banner">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=4F8EF7&center=true&vCenter=true&width=700&lines=Samvar+Jain;Product+Manager+%40+Orbitron+Labs;Building+AI-powered+%2B+full-stack+systems" alt="typing banner">
 
 <br>
 
